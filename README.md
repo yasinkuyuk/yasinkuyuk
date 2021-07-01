@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yasin Küyük. I'm 3rd grade student at ITU and I work for Zippy Pay Technologies as Frontend Developer.
+- 👋 Hi, I’m Yasin Küyük. I'm 4th grade student at ITU and I work for Startupfon as Full Stack Engineer Intern.
 - 👀 I’m interested in mobile/web development, algorithms and research.
 - 🌱 I’m currently learning React Native and NodeJS.
 - 📫 yasinkuyuk@gmail.com
