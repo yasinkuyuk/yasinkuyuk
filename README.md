@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yasin Küyük. I'm 4th grade student at ITU and I work for Startupfon as Full Stack Engineer Intern.
-- 👀 I’m interested in mobile/web development, algorithms and research.
-- 🌱 I’m currently learning React Native and NodeJS.
+- 👋 Hi, I’m Yasin Küyük. I'm 4th grade student at ITU and I work for Startupfon as Frontend Developer.
+- 👀 I’m interested in mobile/web development, algorithms, finance, investment and research.
+- 🌱 I’m currently learning VueJS, NodeJS and Machine Learning principles.
 - 📫 yasinkuyuk@gmail.com
 
 <!---
