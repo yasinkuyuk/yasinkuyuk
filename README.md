@@ -1,13 +1,12 @@
-- hi! it's yasin küyük. i'm full stack developer.
-- I’m deeply interested in fullstack web development, algorithms, finance, investment and research.
+yk7 ~ full stack developer
 
-- My specialities:
- * VueJS
- * React
- * Flask/Python
- * C++
+ * vueJS
+ * react
+ * flask/python
+ * c / c++
+ * algorithms
 
-yasinkuyuk@gmail.com
+contact: yasinkuyuk@gmail.com
 
 <!---
 yasinkuyuk/yasinkuyuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
