@@ -1,10 +1,10 @@
-yk7 ~ full stack developer
+full stack developer ~ yk7
 
- * vueJS
+ * vue.js
  * react
  * flask/python
  * c / c++
- * algorithms
+ * greedy algorithms
 
 contact: yasinkuyuk@gmail.com
 
