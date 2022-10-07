@@ -6,9 +6,11 @@
  - Databases: **MongoDB & PostgreSQL**
  - Algorithms/Data: **Javascript & Python & C++**
 * * *
-linkedin: https://tr.linkedin.com/in/yasinkuyuk
-medium: https://medium.com/@yasinkuyuk
-contact: yasinkuyuk@gmail.com
+Linkedin: https://tr.linkedin.com/in/yasinkuyuk
+
+Medium: https://medium.com/@yasinkuyuk
+
+yasinkuyuk@gmail.com
 ***
 *@yk7*
 
