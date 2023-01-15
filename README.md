@@ -3,6 +3,7 @@
 ##### Tech Stack
  - Frontend: **Vue.js & React & Next.js**
  - Backend: **Node.js & Flask**
+ - Infra & DevOps: **AWS EB / S3 / Code Pipeline / Code Build & Docker**
  - Databases: **MongoDB & PostgreSQL**
  - Algorithms/Data: **Javascript & Python & C++**
 * * *
