@@ -1,10 +1,10 @@
-**Software Engineer** [@Octai](https://octai.com/)
+**Senior Software Engineer** [@mediaQX](https://www.mediaqx.com/)
 * * *
 ##### Tech Stack
- - **Vue.js & React & Next.js**
- - **Node.js & Flask**
+ - **Vue & React**
+ - **Node.js & Flask & Django**
  - **AWS EB / S3 / Code Pipeline / Code Build & Docker**
- - **MongoDB & PostgreSQL**
+ - **MongoDB & MySQL**
 * * *
 - [Linkedin](https://tr.linkedin.com/in/yasinkuyuk)
 - [Mail](mailto:yasinkuyuk@gmail.com)
