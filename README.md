@@ -1,7 +1,7 @@
 **Senior Software Engineer** [@mediaQX](https://www.mediaqx.com/)
 * * *
 ##### Tech Stack
- - **Vue & Nuxt & React **
+ - **Vue & Nuxt & React**
  - **Node.js & Flask & Django**
  - **AWS EB / EC2 & Google Cloud & Docker**
  - **MongoDB & MySQL & Firestore**
