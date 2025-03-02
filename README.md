@@ -1,4 +1,4 @@
-**Senior Software Engineer** [@mediaQX](https://www.mediaqx.com/)
+**Senior Software Engineer** [@Codeway](https://www.codeway.co/)
 * * *
 ##### Tech Stack
  - **Vue & Nuxt & React**
