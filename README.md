@@ -1,10 +1,10 @@
 **Senior Software Engineer** [@mediaQX](https://www.mediaqx.com/)
 * * *
 ##### Tech Stack
- - **Vue & React**
+ - **Vue & Nuxt & React **
  - **Node.js & Flask & Django**
- - **AWS EB / S3 / Code Pipeline / Code Build & Docker**
- - **MongoDB & MySQL**
+ - **AWS EB / EC2 & Google Cloud & Docker**
+ - **MongoDB & MySQL & Firestore**
 * * *
 - [Linkedin](https://tr.linkedin.com/in/yasinkuyuk)
 - [Mail](mailto:yasinkuyuk@gmail.com)
